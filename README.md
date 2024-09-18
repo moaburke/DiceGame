@@ -51,6 +51,7 @@ Results:
 #win: 0  
 #loss: 1  
 Game Over!
+```
 
 ## How to Run
 
