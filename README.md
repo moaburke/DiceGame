@@ -20,3 +20,33 @@ This is a console-based dice game written in Java. The objective of the game is 
 3. **Win or Lose**: If the sum of the rolled dice equals 12, you win. If the sum is more than 12, you lose.
 4. **Game Results**: After each round, the game will display the dice values, sum, and the current win/loss count.
 5. **Exit the Game**: To quit the game, enter `q` at any prompt.
+
+## Example
+
+Welcome to dice game 12. You must roll 1-3 dice and try to get the sum of 12 ...
+
+Enter which dice you want to roll [1,2,3](exit with q): 1  
+4 0 0 sum: 4 #win: 0 #loss: 0   
+Enter which dice you want to roll [1,2,3](exit with q): 2  
+4 3 0 sum: 7 #win: 0 #loss: 0   
+Enter which dice you want to roll [1,2,3](exit with q): 3  
+4 3 6 sum: 13 #win: 0 #loss: 1   
+You lost!  
+
+Next round!
+
+Enter which dice you want to roll [1,2,3](exit with q): 3  
+0 0 6 sum: 6 #win: 0 #loss: 1  
+Enter which dice you want to roll [1,2,3](exit with q): 2  
+0 2 6 sum: 8 #win: 0 #loss: 1  
+Enter which dice you want to roll [1,2,3](exit with q): 1  
+2 2 6 sum: 10 #win: 0 #loss: 1  
+You neither won nor lost the game.  
+
+Next round!
+
+Enter which dice you want to roll [1,2,3](exit with q): q  
+Results:  
+#win: 0  
+#loss: 1  
+Game Over!
