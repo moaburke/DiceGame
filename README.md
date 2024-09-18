@@ -4,7 +4,7 @@ This is a console-based dice game written in Java. The objective of the game is 
 
 ## Features
 
-- Roll 1 to 3 dice at a time.
+- Roll dice 1, 2, and 3 dice at a time.
 - Try to achieve a sum of 12 to win.
 - Input validation to handle invalid entries.
 - Game statistics display the number of wins and losses.
