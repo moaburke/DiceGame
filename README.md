@@ -50,3 +50,9 @@ Results:
 #win: 0  
 #loss: 1  
 Game Over!
+
+## How to Run
+
+1. **Clone the Repository**: `git clone https://github.com/moaburke/dice-game-12.git`
+2. **Compile the Code**: Use `javac Main.java` to compile.
+3. **Run the Program**: Execute the program using `java Main`.
