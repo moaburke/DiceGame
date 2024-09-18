@@ -23,6 +23,7 @@ This is a console-based dice game written in Java. The objective of the game is 
 
 ## Example
 
+```plaintext
 Welcome to dice game 12. You must roll 1-3 dice and try to get the sum of 12 ...
 
 Enter which dice you want to roll [1,2,3](exit with q): 1  
